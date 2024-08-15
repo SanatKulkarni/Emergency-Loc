@@ -26,39 +26,40 @@ Emergency-Loc is a web-based system designed for emergency responders to efficie
 git clone https://github.com/SanatKulkarni/Emergency-Loc.git
 cd Emergency-Loc
 
-# Install dependencies:
+### Installation
 
-bash
-Copy code
-npm install
-# or
-yarn install
-Set up environment variables:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SanatKulkarni/Emergency-Loc.git
+   cd Emergency-Loc
+   npm install
+   ```
+   
+# Set up environment variables:
 Create a .env file in the root directory and add your Supabase and other necessary API keys.
 
-Run the development server:
+# Run the development server:
 
-bash
-Copy code
-npm start
+```bash
+npm run dev
 # or
-yarn start
+yarn dev
+```
 Open your browser and navigate to http://localhost:3000 to see the app in action.
 
-Deployment
-Connect your repository to Vercel.
-Set up the environment variables in Vercel settings.
-Deploy the application directly from Vercel.
-Contributing
+# Deployment
+- Connect your repository to Vercel.
+- Set up the environment variables in Vercel settings.
+- Deploy the application directly from Vercel.
+
+# Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+# Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Open a pull request.
 
-Contact
+# Contact
 For any questions or issues, please open an issue on GitHub or reach out via email at sanatkulkarni100@gmail.com.
