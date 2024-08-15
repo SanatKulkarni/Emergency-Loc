@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/dc85eed0-252b-4395-a6c9-d49ecfd9e248)
+
 # Emergency-Loc
 Emergency-Loc is a web-based system designed for emergency responders to efficiently receive calls, obtain locations from bystanders, and track ambulances in real-time. The system categorizes users into different roles, including responder, supervisor, and admin, allowing them to store and access data at any time.
 
