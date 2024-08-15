@@ -32,28 +32,33 @@ cd Emergency-Loc
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/SanatKulkarni/Emergency-Loc.git
    cd Emergency-Loc
    npm install
-   ```
+   
    
 # Set up environment variables:
 Create a .env file in the root directory and add your Supabase and other necessary API keys.
 
 # Run the development server:
 
-```bash
+bash
 npm run dev
 # or
 yarn dev
-```
+
 Open your browser and navigate to http://localhost:3000 to see the app in action.
 
 # Deployment
 - Connect your repository to Vercel.
 - Set up the environment variables in Vercel settings.
 - Deploy the application directly from Vercel.
+
+# User Manual
+
+https://unmarred-forgery-dc3.notion.site/User-Manual-for-EmeLoc-551b8187aa114b979194a2fecaab1720
+
 
 # Contributing
 Contributions are welcome! Please follow these steps to contribute:
